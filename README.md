@@ -1,3 +1,6 @@
+<img src='https://i.imgur.com/vOtGcK0.png'></img>
+
+_____________________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
