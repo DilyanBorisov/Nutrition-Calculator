@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to top, #90ee9080, #90ee9080), url('food.jpg'); 
+  /* background-color: rgba(0, 255, 255, 0.466); */
+  /* none repeat scroll 0 0 #90ee9080; */
+ }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
